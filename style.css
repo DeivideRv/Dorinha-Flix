@@ -48,7 +48,7 @@ header div img {
 
 h1 {
     color: #fffb06;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     text-decoration: solid;
 }
@@ -86,16 +86,17 @@ section ul {
 
 
 .series-list img {
-    width: 100px;
+    width: 85px;
     border-radius: 10px;
     transition: transform .3s;
 }
+
 .series-list img:hover {
     transform: scale(1.1);
 }
 
 .movies-list img {
-    width: 100px;
+    width: 85px;
     border-radius: 10px;
     transition: transform .3s;
     
