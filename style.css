@@ -87,7 +87,7 @@ section ul {
 
 
 .series-list img {
-    width: 100px;
+    width: 120px;
     border-radius: 10px;
     transition: transform .3s;
 }
@@ -97,7 +97,7 @@ section ul {
 }
 
 .movies-list img {
-    width: 100px;
+    width: 120px;
     border-radius: 10px;
     transition: transform .3s;
     
